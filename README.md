@@ -1,5 +1,5 @@
 # kaname-39.github.io
-※ブログURL:https://tangerine-douhua-de7397.netlify.app/mygame.html
+※ブログURL:https://tangerine-douhua-de7397.netlify.app/表紙.html
 日本人学生でプログラミングを学んでいる人の毎日更新を「心がける」ブログ！
 一応好きなものとかについて触れるブログとして作りました！
 書くことなくてブログにしては短文になるかもしれませんがご愛嬌を！
